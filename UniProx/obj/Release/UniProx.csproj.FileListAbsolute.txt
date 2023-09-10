@@ -1,0 +1,16 @@
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\bin\Release\UniProx.exe.config
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\bin\Release\UniProx.exe
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\bin\Release\UniProx.pdb
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Release\UniProx.csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Release\UniProx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Release\UniProx.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Release\UniProx.exe
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Release\UniProx.pdb
+D:\Udvikling\C\UniProx\UniProx\UniProx\bin\Release\UniProx.exe.config
+D:\Udvikling\C\UniProx\UniProx\UniProx\bin\Release\UniProx.exe
+D:\Udvikling\C\UniProx\UniProx\UniProx\bin\Release\UniProx.pdb
+D:\Udvikling\C\UniProx\UniProx\UniProx\obj\Release\UniProx.csproj.AssemblyReference.cache
+D:\Udvikling\C\UniProx\UniProx\UniProx\obj\Release\UniProx.csproj.SuggestedBindingRedirects.cache
+D:\Udvikling\C\UniProx\UniProx\UniProx\obj\Release\UniProx.csproj.CoreCompileInputs.cache
+D:\Udvikling\C\UniProx\UniProx\UniProx\obj\Release\UniProx.exe
+D:\Udvikling\C\UniProx\UniProx\UniProx\obj\Release\UniProx.pdb

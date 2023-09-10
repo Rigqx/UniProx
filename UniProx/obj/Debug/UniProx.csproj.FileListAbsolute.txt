@@ -1,0 +1,8 @@
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\bin\Debug\UniProx.exe.config
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\bin\Debug\UniProx.exe
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\bin\Debug\UniProx.pdb
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Debug\UniProx.csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Debug\UniProx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Debug\UniProx.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Debug\UniProx.exe
+C:\Users\Marcus\Desktop\UniProx\UniProx\UniProx\obj\Debug\UniProx.pdb
